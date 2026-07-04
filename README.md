@@ -7,7 +7,9 @@
 ## 资料获取
 
 
-https://docs.qingque.cn/d/home/eZQDXo3P-bS3YvmQ3FSEP6n4a?identityId=2T8QAIon4ia
+
+【腾讯文档】win所有系统资料
+https://docs.qq.com/doc/DTGJ3aW9hWFpKcmht
 
 ![1.png](imgs%2F1.png)
 
